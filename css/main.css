@@ -3306,7 +3306,7 @@ footer {
     padding: 6.6rem 0 4.2rem;
     text-align: center;
     color: rgba(0, 0, 0, 0.2);
-    background-color: #151515;
+    background-color: rgba(248, 9, 9, 0.712);
 }
 
 footer a, footer a:visited {
@@ -3391,7 +3391,7 @@ footer a:hover, footer a:focus {
     content: "|";
     display: inline-block;
     padding: 0 1rem 0 1.2rem;
-    color: rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.973);
 }
 
 .footer-bottom .copyright span:last-child::after {
