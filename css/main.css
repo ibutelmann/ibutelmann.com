@@ -3306,6 +3306,7 @@ footer {
     padding: 6.6rem 0 4.2rem;
     text-align: center;
     color: rgba(0, 0, 0, 0.2);
+    background-color: #151515;
 }
 
 footer a, footer a:visited {
