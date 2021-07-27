@@ -2197,8 +2197,8 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 
 .s-about {
-    padding-top: 15rem;
-    padding-bottom: 9rem;
+    padding-top: 5rem;
+    padding-bottom: 0rem;
     background-color: #FFFFFF;
     position: relative;
 }
@@ -2353,7 +2353,7 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 
 .s-works {
-    padding-top: 15rem;
+    padding-top: 5rem;
     padding-bottom: 15.6rem;
     background-color: #f1f1f1;
     position: relative;
@@ -3040,10 +3040,10 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 
 .s-contact {
-    background-color: #151515;
+    background-color: #272727;
     background-repeat: no-repeat;
-    background-position: center, center;
-    padding-top: 13.2rem;
+    background-position: center;
+    padding-top: 8rem;
     padding-bottom: 12rem;
     color: rgba(255, 255, 255, 0.5);
     position: relative;
@@ -3306,15 +3306,15 @@ footer {
     padding: 6.6rem 0 4.2rem;
     text-align: center;
     color: rgba(0, 0, 0, 0.2);
-    background-color: rgba(248, 9, 9, 0.712);
+    background-color: #6ccf45;
 }
 
 footer a, footer a:visited {
-    color: #862121;
+    color: #9c1b1b;
 }
 
 footer a:hover, footer a:focus {
-    color: #000000;
+    color: #e70c0c;
 }
 
 .footer-logo {
