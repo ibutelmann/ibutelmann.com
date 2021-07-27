@@ -729,25 +729,25 @@ label > input[type="checkbox"], label > input[type="radio"] {
  * ------------------------------------------------------------------- */
 
 ::-webkit-input-placeholder {
-    color: #6c6c6c;
+    color: #aaaaaa;
 }
 
 :-moz-placeholder {
-    color: #6c6c6c;
+    color: #aaaaaa;
     /* Firefox 18- */
 }
 
 ::-moz-placeholder {
-    color: #6c6c6c;
+    color: #aaaaaa;
     /* Firefox 19+ */
 }
 
 :-ms-input-placeholder {
-    color: #6c6c6c;
+    color: #aaaaaa;
 }
 
 .placeholder {
-    color: #6c6c6c !important;
+    color: #aaaaaa !important;
 }
 
 
@@ -3056,7 +3056,7 @@ html.no-csstransitions .home-content__main {
     width: 100%;
     height: 100%;
     opacity: .75;
-    background-color: #070606;
+    background-color: #272727;
 }
 
 .s-contact .section-intro h1 {
@@ -3131,9 +3131,9 @@ html.no-csstransitions .home-content__main {
 .contact__form input[type="url"], 
 .contact__form textarea {
     background-color: transparent;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
     margin-bottom: .9rem;
-    color: rgba(255, 255, 255, 0.75);
+    color: rgba(255, 255, 255);
 }
 
 .contact__form input[type="email"]:focus, 
@@ -3305,12 +3305,12 @@ footer {
     font-size: 14px;
     padding: 6.6rem 0 4.2rem;
     text-align: center;
-    color: rgba(0, 0, 0, 0.2);
-    background-color: #6ccf45;
+    color: rgba(187, 187, 187, 0.411);
+    background-color: #272727;
 }
 
 footer a, footer a:visited {
-    color: #9c1b1b;
+    color: rgba(187, 187, 187, 0.411);
 }
 
 footer a:hover, footer a:focus {
@@ -3352,7 +3352,7 @@ footer a:hover, footer a:focus {
 
 .footer-social li::after {
     content: "|";
-    color: rgba(255, 255, 255, 0.15);
+    color: rgba(255, 255, 255, 0.671);
     padding-left: .9rem;
 }
 
@@ -3391,7 +3391,7 @@ footer a:hover, footer a:focus {
     content: "|";
     display: inline-block;
     padding: 0 1rem 0 1.2rem;
-    color: rgba(255, 255, 255, 0.973);
+    color: rgba(187, 187, 187, 0.658);
 }
 
 .footer-bottom .copyright span:last-child::after {
