@@ -83,7 +83,7 @@ html, body {
 }
 
 body {
-    background: #0a0809;
+    background: #3b3b3b;
     font-family: "librebaskerville-regular", serif;
     font-size: 1.6rem;
     line-height: 1.875;
@@ -98,13 +98,13 @@ body {
  * ------------------------------------------------------------------- */
 
 a {
-    color: #862121;
+    color: #0D0A0B;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
 
 a:hover, a:focus, a:active {
-    color: #191A3F;
+    color: #862121;
 }
 
 a:focus {
