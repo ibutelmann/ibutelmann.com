@@ -98,7 +98,7 @@ body {
  * ------------------------------------------------------------------- */
 
 a {
-    color: #0D0A0B;
+    color: #be9494;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
@@ -2201,6 +2201,20 @@ html.no-csstransitions .home-content__main {
     padding-bottom: 0rem;
     background-color: #FFFFFF;
     position: relative;
+}
+
+.s-about a, .s-about a:visited {
+    color: #5c4d4d;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.s-about a:hover, .s-about a:focus, .s-about a:active {
+    color: #862121;
+}
+
+.s-about a:focus {
+    outline: none;
 }
 
 .about-content {
