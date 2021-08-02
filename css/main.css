@@ -4154,21 +4154,3 @@ article.blog-single .blog-content {
         display: none;
     }
 }
-
-
-.img-center {
-    text-align:center; /* Align center inline elements */
-    font: 0/0 a;       /* Hide the characters like spaces */
-  }
-  
-.img-center:before {
-    content: ' ';
-    display: inline-block;
-    vertical-align: middle;
-    height: 100%;
-  }
-  
-.img-center img {
-    vertical-align: middle;
-    display: inline-block;
-  }
