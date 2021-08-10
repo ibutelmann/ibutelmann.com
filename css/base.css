@@ -448,7 +448,12 @@ input[type="password"], textarea {
     width: 91.66667%;
 }
 
-.col-twelve, .col-full {
+.col-twelve {
+    width: 100%;
+    text-align: center;
+}
+
+.col-full {
     width: 100%;
 }
 .col-full-contact {
